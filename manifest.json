@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Ubuntu Yaru - mixture of light and dark",
+  "theme": {
+    "colors": {
+      "toolbar": "#F7F7F7",
+      "toolbar_text": "#3D3D3D",
+      "frame": "#292929",
+      "tab_background_text": "#F7F7F7",
+      "toolbar_field": "white",
+      "toolbar_field_text": "black",
+      "tab_line": "#E95420",
+      "popup": "white",
+      "popup_text": "black",
+      "toolbar_bottom_separator": "#C2C8CE"
+    }
+  }
+}
