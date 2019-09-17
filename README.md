@@ -6,9 +6,9 @@ https://addons.mozilla.org/firefox/addon/yaru-hybrid/
 
 ## Screenshot
 
-![Hybrid theme](screenshot/hybrid.png)  
-The active tab and the toolbar has a light color while inactive tabs
+The active tab and the toolbar have a light color while inactive tabs
 have a dark color.
+![Hybrid theme](screenshot/hybrid.png)
 
 For comparison, here are the default themes
 with Yaru (https://github.com/ubuntu/yaru).
