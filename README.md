@@ -1,5 +1,8 @@
 # Ubuntu Yaru based hybrid theme for Firefox
 
+It's pretty close to the default theme with Yaru
+(https://github.com/ubuntu/yaru) prior to the version 19.10.2.
+
 ## How to install
 
 https://addons.mozilla.org/firefox/addon/yaru-hybrid/
@@ -10,8 +13,7 @@ The active tab and the toolbar have a light color while inactive tabs
 have a dark color.
 ![Hybrid theme](screenshot/hybrid.png)
 
-For comparison, here are the default themes
-with Yaru (https://github.com/ubuntu/yaru).
+For comparison, here are the default themes with Yaru 19.10.2.
 
 * Yaru (light)  
   ![Light theme](screenshot/light.png)
