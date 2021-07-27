@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "Yaru hybrid",
   "theme": {
     "colors": {
@@ -10,9 +10,10 @@
       "tab_background_text": "#F7F7F7",
       "toolbar_field": "white",
       "toolbar_field_text": "black",
-      "tab_line": "#E95420",
+      "toolbar_field_border_focus": "#E95420",
       "popup": "white",
       "popup_text": "black",
+      "popup_highlight": "#E95420",
       "toolbar_bottom_separator": "#C2C8CE"
     }
   }
