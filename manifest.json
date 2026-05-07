@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "Yaru hybrid",
   "theme": {
     "colors": {
       "toolbar": "#F7F7F7",
       "toolbar_text": "#3D3D3D",
-      "frame": "#292929",
+      "frame": "#2c2c2c",
       "tab_background_text": "#F7F7F7",
       "toolbar_field": "white",
       "toolbar_field_text": "black",
