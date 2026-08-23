@@ -2,6 +2,11 @@
   "manifest_version": 2,
   "version": "1.0.5",
   "name": "Yaru hybrid",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{7d28432e-79a6-4b0d-be5e-febdc9121c5c}"
+    }
+  },
   "theme": {
     "colors": {
       "toolbar": "#F7F7F7",
