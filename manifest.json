@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "name": "Yaru hybrid",
   "theme": {
     "colors": {
@@ -14,7 +14,24 @@
       "popup": "white",
       "popup_text": "black",
       "popup_highlight": "#E95420",
-      "toolbar_bottom_separator": "#C2C8CE"
+      "toolbar_bottom_separator": "#C2C8CE",
+      "sidebar_text": "black"
+    }
+  },
+  "dark_theme": {
+    "colors": {
+      "toolbar": "#F7F7F7",
+      "toolbar_text": "#3D3D3D",
+      "frame": "#2c2c2c",
+      "tab_background_text": "#F7F7F7",
+      "toolbar_field": "white",
+      "toolbar_field_text": "black",
+      "toolbar_field_border_focus": "#E95420",
+      "popup": "white",
+      "popup_text": "black",
+      "popup_highlight": "#E95420",
+      "toolbar_bottom_separator": "#C2C8CE",
+      "sidebar_text": "white"
     }
   }
 }
